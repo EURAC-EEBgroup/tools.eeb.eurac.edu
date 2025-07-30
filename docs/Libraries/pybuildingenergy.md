@@ -2,7 +2,6 @@
 
 <figure markdown="span">
   ![Image title](../imgs/pybuildingenergy/pybuildingenergy.png){ width="800" }
-  <figcaption>pyBuildingEnergy Logo </figcaption>
 </figure>
 
 ## Citation
