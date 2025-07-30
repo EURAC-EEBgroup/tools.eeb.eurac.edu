@@ -1,6 +1,9 @@
 # pyBuildingEnergy
 
-![pyBuildingEnergy Logo](https://github.com/EURAC-EEBgroup/pyBuildingEnergy/blob/master/src/pybuildingenergy/assets/Logo_pyBuild.png)
+<figure markdown="span">
+  ![Image title](../imgs/pybuildingenergy/pybuildingenergy.png){ width="800" }
+  <figcaption>pyBuildingEnergy Logo </figcaption>
+</figure>
 
 ## Citation
 
