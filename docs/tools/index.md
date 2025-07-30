@@ -88,8 +88,4 @@ Short description
 - :fontawesome-solid-book: &nbsp; [Documentation](IWG5.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/iwg5/)
 
-# API
 
-# LIBRARIES
-
-# DOCS
