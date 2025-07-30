@@ -56,3 +56,40 @@ Short description
 - :fontawesome-solid-book: &nbsp; [Documentation](CERPlan.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://cerplan.eurac.edu)
 
+## Ventilative Cooling Potential Tool 
+
+Short description
+
+<!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
+- :fontawesome-solid-book: &nbsp; [Documentation](Ventilative_Cooling_Potential.md)
+- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/ventilative_cooling_potential/)
+
+## Indoor Air Quality Self-Diagnosis Tool 
+
+Short description
+
+<!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
+- :fontawesome-solid-book: &nbsp; [Documentation](IAQ_Self_Diagnosis.md)
+- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/iaq_self_diagnosis/)
+
+## Building Life Cycle Analisys Tool 
+
+Short description
+
+<!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
+- :fontawesome-solid-book: &nbsp; [Documentation](BLCA.md)
+- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/blca/)
+
+## Europena Building stock (IWG5 Tool)
+
+Short description
+
+<!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
+- :fontawesome-solid-book: &nbsp; [Documentation](IWG5.md)
+- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/iwg5/)
+
+# API
+
+# LIBRARIES
+
+# DOCS
