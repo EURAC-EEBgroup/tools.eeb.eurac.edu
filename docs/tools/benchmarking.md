@@ -79,6 +79,13 @@ This section allows data analysis according to three main subsections:
   <figcaption>Identified anomalies </figcaption>
 </figure>
 
+## Stakeholder users
+- Energy manager
+- Building owners
+- Maintenance
+- Researchers
+
+
 ## References
 
 - [Benchmarking tool](https://tools.eeb.eurac.edu/building_benchmarking/#)
