@@ -1,5 +1,5 @@
 ---
-title: Tools and services
+title: Index
 ---
 
 # Tools and services
