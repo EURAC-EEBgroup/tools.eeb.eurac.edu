@@ -56,9 +56,9 @@ Short description
 - :fontawesome-solid-book: &nbsp; [Documentation](CERPlan.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://cerplan.eurac.edu)
 
-## Ventilative Cooling Potential Tool 
+## 🌬️ Ventilative Cooling Potential Tool 
 
-Short description
+The Ventilative cooling potential tool evaluates the effectiveness of natural ventilation cooling strategies in buildings, supporting early-stage design decisions by considering building characteristics, climate data, and comfort requirements. It provides a preliminary assessment to optimize passive cooling while highlighting its limitations for complex scenarios
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](Ventilative_Cooling_Potential.md)
