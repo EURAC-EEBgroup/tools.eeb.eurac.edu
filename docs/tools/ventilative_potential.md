@@ -111,6 +111,7 @@ Please feel free to contact us with any potential suggestions, avenues for colla
 ## Citation
 
 Please cite us if you use this software: 
+
 **Fossati V., Belleri A., Van Djik D., A methodology for evaluating the ventilative cooling potential in early-stage building design, AIVC 2023 conference proceedings, Copenhagen, October 2023**
 
 
