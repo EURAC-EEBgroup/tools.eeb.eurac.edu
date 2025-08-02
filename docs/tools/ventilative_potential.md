@@ -48,8 +48,7 @@ Once the reference zone has been defined, the following inputs are required:
 |**Envelope area** | Ae (m²): Gross envelope area (incl. both opaque and glazed area) which has outside temperature as boundary condition (excl. interior walls, floors and ceilings). This area, multiplied by the average thermal transmittance, is used to estimate the transmission
 |**Floor area** | Af (m²): The net floor area of the room to calculate net room air volume V = H * Af and internal gains.
 |**Fenestration area** | Ag (m²): Total window area (incl. frame). If more windows are present in the reference room please insert the sum area.
-|**Comfort requirements** | (a value equal to: 'category I', 'category II', 'category III'; required):
-Comfort requirements refer to the comfort categories defined by the EN 16798:1-2019 standard. Recommended input values given for each of the different comfort categories are included in the tool and automatically selected. 
+|**Comfort requirements** | (a value equal to: 'category I', 'category II', 'category III'; required): Comfort requirements refer to the comfort categories defined by the EN 16798:1-2019 standard. Recommended input values given for each of the different comfort categories are included in the tool and automatically selected. 
 |**Maximum relative humidity accepted** | RHmax (%): enter the max. outdoor relative humidity of outdoor air accepted for ventilative cooling (i.e. 85%). If the outdoor relative humidity of the weather file exceeds this value, direct ventilative cooling cannot provide benefits because the outdoor air is considered too humid.
 |**U-value of the opaque envelope** | Uo (W/m²K): Average thermal transmittance of the opaque surfaces (wall, roof, floor) with outdoor boundary conditions. 
 |**U-value of the fenestration** | Uw (W/m²K): Thermal transmittance of the window (or average thermal transmittance of windows if the room has more than one window), considering both glazing system and frame. 
@@ -73,12 +72,13 @@ A set of optional inputs can be entered to customize default input values. If an
 To perform the calculation, you must upload a file containing hourly metereological data for a full year.
 Accepted file formats: .csv or .epw
 Possible data sources:
-•	Repository of Building Simulation Climate Data: https://climate.onebuilding.org/
-•	Joint Research Centre, “TMY generator,” 2022. https://joint-research-centre.ec.europa.eu/pvgis-online-tool/pvgis-tools/tmy-generator_en
+- [Repository of Building Simulation Climate Data](https://climate.onebuilding.org/)
+- [Joint Research Centre, “TMY generator,” 2022](https://joint-research-centre.ec.europa.eu/pvgis-online-tool/pvgis-tools/tmy-generator_en)
 The calculation should be also performed with future weather datasets if available to ensure resilience of ventilative cooling strategies over time.
 
 ## Output
 The ventilative cooling tool calculates during occupied hours the following outputs:
+
 1. Distribution of ventilative modes over the year. An algorithm differentiates each hour of the year among the four ventilative cooling modes, showing the percentage of time within each month when:
     - Ventilative cooling is not required (VC-mode [0]): Ventilative cooling is not required during occupied hours in which indoor temperature is below the lower comfort zone limit (heating is needed). 
     - Direct ventilative cooling with airflow rate maintained at the minimum required (VC-mode [1]): direct ventilation with airflow rate maintained at the minimum required for indoor air quality can potentially ensure comfort when the outdoor temperature is within the comfort ranges. 
@@ -90,7 +90,7 @@ The ventilative cooling tool calculates during occupied hours the following outp
 
 ## License
 
-- **License**: MIT License
+- **License**: BSD-3-Clause License
 
 
 ## Contacts
