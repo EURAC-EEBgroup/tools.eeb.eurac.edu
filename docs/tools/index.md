@@ -40,7 +40,7 @@ The _Measurement and Verification Tool_ is a web application that allows users t
 - :fontawesome-brands-github: &nbsp; [Git repository](https://github.com/EURAC-EEBgroup/Measurement-and-verification)
 - :fontawesome-solid-book: &nbsp; [Documentation](mea_and_ver.md)
 
-## Encome 
+## 🏠 Encome 
 
 The _ENergy COnservation TOol - ENCOME -_ is a comprehensive assessment platform that evaluates building energy performance improvements through Energy Conservation Measures (ECMs) using advanced EN ISO 52016/52010 standards
 
@@ -48,7 +48,7 @@ The _ENergy COnservation TOol - ENCOME -_ is a comprehensive assessment platform
 - :fontawesome-solid-book: &nbsp; [Documentation](Encome.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/encome/)
 
-## CERPlan
+## 🏘️ CERPlan
 
 _CERPlan_ is a web tool that helps public and private owners plan energy renovations across many buildings at once. It brings together audit data, Energy Performance Certificates (EPCs), energy bills, and reference cost and incentive data
 
@@ -64,7 +64,7 @@ The _Ventilative cooling potential tool_ evaluates the effectiveness of natural 
 - :fontawesome-solid-book: &nbsp; [Documentation](Ventilative_Cooling_Potential.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/ventilative_cooling_potential/)
 
-## Indoor Air Quality Self-Diagnosis Tool 
+## 🏫 Indoor Air Quality Self-Diagnosis Tool 
 
 The _Indoor Air Quality Self-Diagnosis Tool_ helps school managers estimate classroom CO₂ levels based on key factors like indoor/outdoor temperature, number of students, and window usage.
 
@@ -72,7 +72,7 @@ The _Indoor Air Quality Self-Diagnosis Tool_ helps school managers estimate clas
 - :fontawesome-solid-book: &nbsp; [Documentation](IAQ_Self_Diagnosis.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/iaq_self_diagnosis/)
 
-## Building Life Cycle Analisys Tool 
+## 💰Building Life Cycle Analisys Tool 
 
 The _Building Life Cycle Analisys Tool_ enables users to track all costs related to one or more façade systems of a building and compare the costs and key performance indicators (KPIs) of different façade alternatives for the same building.
 
@@ -80,7 +80,7 @@ The _Building Life Cycle Analisys Tool_ enables users to track all costs related
 - :fontawesome-solid-book: &nbsp; [Documentation](BLCA.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/blca/)
 
-## European Building stock (IWG5 Tool)
+## 🌆 European Building stock (IWG5 Tool)
 
 The _IWG5 Tool_ develops a comprehensive parametric baseline and renovation database for life-cycle energy, cost, and emissions analysis of European residential and office buildings
 

@@ -1,9 +1,9 @@
 ---
-title: Measurement and Verification Tool 
+title: European Building stock - IWG5 Project 
 ---
 
 
-# Measurement and Verification Tool
+# European Building stock - IWG5 Project
 
 !!! abstract "Abstract"
 
