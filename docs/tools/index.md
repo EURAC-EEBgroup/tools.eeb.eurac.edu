@@ -42,7 +42,7 @@ The _Measurement and Verification Tool_ is a web application that allows users t
 
 ## Encome 
 
-Short description
+The _ENergy COnservation TOol - ENCOME -_ is a comprehensive assessment platform that evaluates building energy performance improvements through Energy Conservation Measures (ECMs) using advanced EN ISO 52016/52010 standards
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](Encome.md)
@@ -50,7 +50,7 @@ Short description
 
 ## CERPlan
 
-Short description
+_CERPlan_ is a web tool that helps public and private owners plan energy renovations across many buildings at once. It brings together audit data, Energy Performance Certificates (EPCs), energy bills, and reference cost and incentive data
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](CERPlan.md)
@@ -58,7 +58,7 @@ Short description
 
 ## 🌬️ Ventilative Cooling Potential Tool 
 
-The Ventilative cooling potential tool evaluates the effectiveness of natural ventilation cooling strategies in buildings, supporting early-stage design decisions by considering building characteristics, climate data, and comfort requirements. It provides a preliminary assessment to optimize passive cooling while highlighting its limitations for complex scenarios
+The _Ventilative cooling potential tool_ evaluates the effectiveness of natural ventilation cooling strategies in buildings, supporting early-stage design decisions by considering building characteristics, climate data, and comfort requirements. It provides a preliminary assessment to optimize passive cooling while highlighting its limitations for complex scenarios
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](Ventilative_Cooling_Potential.md)
@@ -66,7 +66,7 @@ The Ventilative cooling potential tool evaluates the effectiveness of natural ve
 
 ## Indoor Air Quality Self-Diagnosis Tool 
 
-Short description
+The _Indoor Air Quality Self-Diagnosis Tool_ helps school managers estimate classroom CO₂ levels based on key factors like indoor/outdoor temperature, number of students, and window usage.
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](IAQ_Self_Diagnosis.md)
@@ -74,15 +74,15 @@ Short description
 
 ## Building Life Cycle Analisys Tool 
 
-Short description
+The _Building Life Cycle Analisys Tool_ enables users to track all costs related to one or more façade systems of a building and compare the costs and key performance indicators (KPIs) of different façade alternatives for the same building.
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](BLCA.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/blca/)
 
-## Europena Building stock (IWG5 Tool)
+## European Building stock (IWG5 Tool)
 
-Short description
+The _IWG5 Tool_ develops a comprehensive parametric baseline and renovation database for life-cycle energy, cost, and emissions analysis of European residential and office buildings
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](IWG5.md)
