@@ -132,7 +132,7 @@ it is possible to view the primary energy, the building's thermal demand, the in
 </figure>
 
 
-### ENERRGY CONSERVATION MEASURES
+### ENERGY CONSERVATION MEASURES
 
 it is possible to apply different ECMs to the building and evaluate both economic and energy impact to the building.
 The ECM can be applied to:
@@ -161,3 +161,10 @@ The tool simulates each individual ECM as well as combinations of multiple ECMs,
 <figcaption>Simple pya back time for each ECM</figcaption>
 </figure>
 
+### Photovoltaic simulation 
+Photovoltaic Simulation (ECM) and Optimization. Photovoltaics simulation allows the user to assess how much photovoltaics capacity is needed when the energy consumption for heating is covered entirely by an electric generator (heat pump), and additional data is required including i. e., an annual profile of electricity consumption from appliances. The optimization provides a guide for the design of a photovoltaic plus battery energy storage system coupled with a heat pump for different locations and thus different climates in Europe. Through a multi-objective optimization approach applied to the six European geoclusters and applying different solution selection criteria, it is possible to obtain the optimal photovoltaic capacity (kWp) normalized over the thermal consumption of a reference building and the optimal capacity of the battery per kWp of photovoltaic (kWh/kWp) installed. Due to the normalization process, results can be generalized and can be used for designing similar systems in all buildings around Europe. The results must be intended as a support for designers for the early-design phase of such systems or as an initial guess for an iterative process in more advanced evaluations
+
+
+## References
+
+- [Benchmarking tool](https://tools.eeb.eurac.edu/encome/#)
