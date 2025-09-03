@@ -137,11 +137,11 @@ it is possible to view the primary energy, the building's thermal demand, the in
 it is possible to apply different ECMs to the building and evaluate both economic and energy impact to the building.
 The ECM can be applied to:
 
-    1)  The facade, changine the layer composition of the vertical opaque components
-    2)  The roof, changine the layer composition of the vertical opaque components
-    3)  The floor, changine the layer composition of the vertical opaque components
-    4)  The windows, changine the layer composition of the vertical transparent components
-    5)  The heating system, changine the performance of the generator
+    1)  The facade, changing the layer composition of the vertical opaque components
+    2)  The roof, changing the layer composition of the vertical opaque components
+    3)  The floor, changing the layer composition of the vertical opaque components
+    4)  The windows, changing the layer composition of the vertical transparent components
+    5)  The heating system, changing the performance of the generator
 
 The tool simulates each individual ECM as well as combinations of multiple ECMs, when more than one is selected. In the end, it is possible to evaluate both the energy impact and the economic impact, if the investment cost for the ECM and the energy cost per kWh are provided.
 
