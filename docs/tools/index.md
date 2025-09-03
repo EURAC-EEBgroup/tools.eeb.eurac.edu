@@ -70,7 +70,7 @@ The _Indoor Air Quality Self-Diagnosis Tool_ helps school managers estimate clas
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
 - :fontawesome-solid-book: &nbsp; [Documentation](IAQ_Self_Diagnosis.md)
-- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/iaq_self_diagnosis/)
+- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://www.qaes-iaqtool.eurac.edu/)
 
 ## 💰Building Life Cycle Analisys Tool 
 
