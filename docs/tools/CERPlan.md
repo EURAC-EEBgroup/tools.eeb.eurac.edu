@@ -1,5 +1,9 @@
-# CERPlan – Cost-Effective Renovation Plan
+---
+title: CERPlan – Cost-Effective Renovation Plan
+---
 
+
+# CERPlan – Cost-Effective Renovation Plan
 
 !!! abstract "Abstract"
 
