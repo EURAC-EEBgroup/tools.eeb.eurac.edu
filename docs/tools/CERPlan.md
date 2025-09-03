@@ -2,7 +2,6 @@
 title: CERPlan – Cost-Effective Renovation Plan
 ---
 
-
 # CERPlan – Cost-Effective Renovation Plan
 
 !!! abstract "Abstract"
