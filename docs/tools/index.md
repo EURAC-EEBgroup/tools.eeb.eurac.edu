@@ -61,7 +61,7 @@ _CERPlan_ is a web tool that helps public and private owners plan energy renovat
 The _Ventilative cooling potential tool_ evaluates the effectiveness of natural ventilation cooling strategies in buildings, supporting early-stage design decisions by considering building characteristics, climate data, and comfort requirements. It provides a preliminary assessment to optimize passive cooling while highlighting its limitations for complex scenarios
 
 <!-- - :fontawesome-brands-github: &nbsp; [Git repository]() -->
-- :fontawesome-solid-book: &nbsp; [Documentation](Ventilative_Cooling_Potential.md)
+- :fontawesome-solid-book: &nbsp; [Documentation](ventilative_potential.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/ventilative_cooling_potential/)
 
 ## 🏫 Indoor Air Quality Self-Diagnosis Tool 
