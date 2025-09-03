@@ -20,5 +20,13 @@ pybuildingcluster is a Python library to perform clustering, modeling, sensitivi
 - :fontawesome-brands-github: &nbsp; [Git repository](https://github.com/EURAC-EEBgroup/pyBuildingCluster)
 - :fontawesome-solid-book: &nbsp; [Documentation](pybuildingcluster.md)
 
+# 🧱 BrickLLM
+
+BrickLLM is a Python library for generating RDF files following the BrickSchema ontology using Large Language Models (LLMs).
+
+- :fontawesome-brands-github: &nbsp; [Git repository](https://github.com/EURAC-EEBgroup/brick-llm)
+- :fontawesome-solid-book: &nbsp; [Documentation](brickllm.md)
+
+
 
 
