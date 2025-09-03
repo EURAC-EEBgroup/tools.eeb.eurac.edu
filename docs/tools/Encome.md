@@ -158,7 +158,7 @@ The tool simulates each individual ECM as well as combinations of multiple ECMs,
 
 <figure markdown="span">
 ![Image title](../imgs/encome/ENCOME17.png){ width="800" }
-<figcaption>Simple pya back time for each ECM</figcaption>
+<figcaption>Simple pay back time for each ECM</figcaption>
 </figure>
 
 ### Photovoltaic simulation 
