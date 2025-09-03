@@ -24,6 +24,7 @@ The tool is based on the  following schema:
 
 ## User Guide
 
+### INPUT
 To simulate the tool some inputs are required (similar to the ones required for the EPC certification):
 
 - **Building location**:
@@ -103,4 +104,60 @@ To simulate the tool some inputs are required (similar to the ones required for 
     </figure>
     
 
+Dedicated pages for material databases where it is possible to define layer compositions for vertical opaque components and display them in 3D 
+
+<figure markdown="span">
+![Image title](../imgs/encome/ENCOME11.png){ width="800" }
+<figcaption>Custom component definition by layers</figcaption>
+</figure>
+    
+
+### OUTPUT
+
+it is possible to view the primary energy, the building's thermal demand, the internal temperature trends, also the temperature visualization according to the groupings provided by EN 16798-1
+
+<figure markdown="span">
+![Image title](../imgs/encome/ENCOME12.png){ width="800" }
+<figcaption>Primary and energy need of building</figcaption>
+</figure>
+
+<figure markdown="span">
+![Image title](../imgs/encome/ENCOME13.png){ width="800" }
+<figcaption>Daily and hourly energy profile</figcaption>
+</figure>
+
+<figure markdown="span">
+![Image title](../imgs/encome/ENCOME14.png){ width="800" }
+<figcaption>Indoor Temperature profile and Temperature category from EN 16798-1</figcaption>
+</figure>
+
+
+### ENERRGY CONSERVATION MEASURES
+
+it is possible to apply different ECMs to the building and evaluate both economic and energy impact to the building.
+The ECM can be applied to:
+
+    1)  The facade, changine the layer composition of the vertical opaque components
+    2)  The roof, changine the layer composition of the vertical opaque components
+    3)  The floor, changine the layer composition of the vertical opaque components
+    4)  The windows, changine the layer composition of the vertical transparent components
+    5)  The heating system, changine the performance of the generator
+
+The tool simulates each individual ECM as well as combinations of multiple ECMs, when more than one is selected. In the end, it is possible to evaluate both the energy impact and the economic impact, if the investment cost for the ECM and the energy cost per kWh are provided.
+
+
+    <figure markdown="span">
+![Image title](../imgs/encome/ENCOME15.png){ width="800" }
+<figcaption>List of Simulated ECM</figcaption>
+</figure>
+
+<figure markdown="span">
+![Image title](../imgs/encome/ENCOME16.png){ width="800" }
+<figcaption>Energy impact of ECMs</figcaption>
+</figure>
+
+<figure markdown="span">
+![Image title](../imgs/encome/ENCOME17.png){ width="800" }
+<figcaption>Simple pya back time for each ECM</figcaption>
+</figure>
 
