@@ -26,8 +26,9 @@ The ENCOME API is It is a comprehensive digital API that provides building profe
 
 The IWG5 API allows to get data from the IWG5 Database. In which several simulations from the following type of buidling are stored:
 
-    - Single Family House 
-    - Multi Family House
+    1) Single Family House 
+    2) Multi Family House
+    3) Office Building
 
 - :fontawesome-solid-book: &nbsp; [Documentation](iwg5_api.md)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/iwg5/api/docs)
