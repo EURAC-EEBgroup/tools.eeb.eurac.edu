@@ -8,7 +8,6 @@ title: ENCOME API
 
     ENCOME - API is the backbone of the Encome tool. It is a comprehensive digital API that provides building professionals with advanced computational tools for energy performance simulation. The platform integrates secure user management, material databases, weather data integration, and compliance with international standards (ISO 52016, ISO52010, UNI TS 11300) to enable  building simulations and energy conservation measure evaluations. Through its modular architecture and user-friendly interface, the API transforms complex building science calculations into accessible operations that support evidence-based decision-making for sustainable building design and management.
 
-# Introduction 
 
 # Introduction
 
