@@ -23,6 +23,14 @@ BrickLLM is a web application that generates RDF files conforming to the BrickSc
 - :fontawesome-brands-github: &nbsp; [Git repository](https://github.com/EURAC-EEBgroup/BrickLLM-App)
 - :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/brickllm/)
 
+## 🧠 BrickLLM - App
+
+BrickLLM is a web app for generating RDF files following the BrickSchema ontology using Large Language Models (LLMs). It is based on the python library BrickLLM.
+
+- :fontawesome-brands-github: &nbsp; [Git repository](https://github.com/EURAC-EEBgroup/BrickLLM-App)
+- :fontawesome-solid-book: &nbsp; [Documentation](BrickLLM_app.md)
+- :fontawesome-solid-up-right-from-square: &nbsp; [Public application](https://tools.eeb.eurac.edu/brickllm/)
+
 ## 🏗️ Geoclustering Tool
 
 The _Geoclustering Tool_ is a web application that allows users to cluster buildings based on their geospatial location and other relevant features. The tool is built using Python and is designed to be easy to use and understand. 
