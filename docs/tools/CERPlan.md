@@ -8,7 +8,7 @@ title: CERPlan – Cost-Effective Renovation Plan
 
     CERPlan is a web tool that helps public and private owners plan energy renovations across many buildings at once. It brings together audit data, Energy Performance Certificates (EPCs), energy bills, and reference cost and incentive data.
 
-> [!NOTE]
+
 > **Key feature:** CERPlan accounts for maintenance you would pay anyway. By using these "avoided costs," it often shortens payback time and makes envelope measures (insulation, windows) more attractive—not only HVAC system replacements.
 
 ## Introduction

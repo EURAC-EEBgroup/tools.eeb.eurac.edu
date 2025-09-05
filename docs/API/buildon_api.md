@@ -1,4 +1,3 @@
-
 ---
 title: BuildON API 
 ---
@@ -10,7 +9,7 @@ title: BuildON API
     The BuildOn API serves as the backend infrastructure for the BuildON benchmarking application, providing specialized endpoints for comprehensive building comfort and energy performance analysis. The platform generates targeted visualization charts that enable indoor comfort assessment and temporal performance comparisons across different evaluation periods. Through its integration capabilities with external tools and databases, the API empowers users to enhance building assessments with data-driven insights, supporting both routine evaluations and complex multi-building comparative studies. The secure, scalable architecture ensures data protection while maintaining flexibility for future technological and regulatory adaptations.
 
 
-# Introduction
+## Introduction
 
 The API has been developed as the backend for the BuildON benchmarking application.
 
