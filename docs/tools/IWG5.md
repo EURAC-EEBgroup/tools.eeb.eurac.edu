@@ -37,7 +37,7 @@ On the Home page, you can either jump right into the database querying and compa
 The left panel lets you choose between querying (filtering) the database or using the compare tool. 
 
 <figure markdown="span">
-  ![Image title](../imgs/iwg5/iwg5_4.png){ width="800" }
+  ![Image title](../imgs/iwg5/Iwg5_4.png){ width="800" }
   <figcaption>Type of analysis </figcaption>
 </figure>
 
