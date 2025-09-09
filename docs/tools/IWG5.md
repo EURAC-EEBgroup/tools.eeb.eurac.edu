@@ -19,7 +19,7 @@ The process of creating the retrofit options database begins with gathering data
 
 
 <figure markdown="span">
-  ![Image title](../imgs/iwg5/IWG5_1.png){ width="800" }
+  ![Image title](../imgs/iwg5/IWG5_1.jpg){ width="800" }
   <figcaption>Workflow of simulation method</figcaption>
 </figure>
 
