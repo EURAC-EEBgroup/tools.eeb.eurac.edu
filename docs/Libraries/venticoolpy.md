@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD041 -->
 # VentiCoolPy
 
 ![VentiCoolPy Logo](https://raw.githubusercontent.com/EURAC-EEBgroup/venticoolpy/main/docs/media/venticoolpy_logo.png) <!-- markdownlint-disable-line MD041 -->
