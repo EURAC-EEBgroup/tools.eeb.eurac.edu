@@ -28,5 +28,9 @@ BrickLLM is a Python library for generating RDF files following the BrickSchema 
 - :fontawesome-solid-book: &nbsp; [Documentation](brickllm.md)
 
 
+# VentiCoolPy
 
+VentiCoolPy is a Python library developed to support the development of sustainable cooling strategies for buildings.
 
+- :fontawesome-brands-github: &nbsp; [Git repository](https://github.com/EURAC-EEBgroup/venticoolpy)
+- :fontawesome-solid-book: &nbsp; [Documentation](venticoolpy.md)
