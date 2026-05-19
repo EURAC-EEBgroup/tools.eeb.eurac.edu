@@ -41,10 +41,6 @@ The ventilative cooling tool calculates during occupied hours the following outp
 3. Sensible energy needs: Monthly and annual sensible energy needs for heating and cooling with and without ventilative cooling;
 4.	Ventilative cooling capacity (kWh/y): The cooling energy needs that could be avoided over the year thanks to the use of ventilative cooling.
 
-## License
-
-- **License**: BSD-3-Clause License
-
 
 ## Contacts
 
